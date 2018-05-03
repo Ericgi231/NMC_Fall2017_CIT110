@@ -1,0 +1,14 @@
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week14\Grant121_SimpleMonsterClasses\Grant121_SimpleMonsterClasses\bin\Debug\Grant121_SimpleMonsterClasses.exe.config
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week14\Grant121_SimpleMonsterClasses\Grant121_SimpleMonsterClasses\bin\Debug\Grant121_SimpleMonsterClasses.exe
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week14\Grant121_SimpleMonsterClasses\Grant121_SimpleMonsterClasses\bin\Debug\Grant121_SimpleMonsterClasses.pdb
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week14\Grant121_SimpleMonsterClasses\Grant121_SimpleMonsterClasses\obj\Debug\Grant121_SimpleMonsterClasses.csprojResolveAssemblyReference.cache
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week14\Grant121_SimpleMonsterClasses\Grant121_SimpleMonsterClasses\obj\Debug\Grant121_SimpleMonsterClasses.csproj.CoreCompileInputs.cache
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week14\Grant121_SimpleMonsterClasses\Grant121_SimpleMonsterClasses\obj\Debug\Grant121_SimpleMonsterClasses.exe
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week14\Grant121_SimpleMonsterClasses\Grant121_SimpleMonsterClasses\obj\Debug\Grant121_SimpleMonsterClasses.pdb
+E:\NMC\Assignments\2017 Fall - CIT 110\week14\Grant121_SimpleMonsterClasses\Grant121_SimpleMonsterClasses\bin\Debug\Grant121_SimpleMonsterClasses.exe.config
+E:\NMC\Assignments\2017 Fall - CIT 110\week14\Grant121_SimpleMonsterClasses\Grant121_SimpleMonsterClasses\bin\Debug\Grant121_SimpleMonsterClasses.exe
+E:\NMC\Assignments\2017 Fall - CIT 110\week14\Grant121_SimpleMonsterClasses\Grant121_SimpleMonsterClasses\bin\Debug\Grant121_SimpleMonsterClasses.pdb
+E:\NMC\Assignments\2017 Fall - CIT 110\week14\Grant121_SimpleMonsterClasses\Grant121_SimpleMonsterClasses\obj\Debug\Grant121_SimpleMonsterClasses.csprojResolveAssemblyReference.cache
+E:\NMC\Assignments\2017 Fall - CIT 110\week14\Grant121_SimpleMonsterClasses\Grant121_SimpleMonsterClasses\obj\Debug\Grant121_SimpleMonsterClasses.csproj.CoreCompileInputs.cache
+E:\NMC\Assignments\2017 Fall - CIT 110\week14\Grant121_SimpleMonsterClasses\Grant121_SimpleMonsterClasses\obj\Debug\Grant121_SimpleMonsterClasses.exe
+E:\NMC\Assignments\2017 Fall - CIT 110\week14\Grant121_SimpleMonsterClasses\Grant121_SimpleMonsterClasses\obj\Debug\Grant121_SimpleMonsterClasses.pdb

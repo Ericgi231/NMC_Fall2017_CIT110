@@ -1,0 +1,9 @@
+E:\Q\2017 Fall - CIT 110\week05\Grant-Goodman-Lewin-Bowlin-examPrep\Grant-Goodman-Lewin-Bowlin-examPrep\bin\Debug\Grant-Goodman-Lewin-Bowlin-examPrep.exe.config
+E:\Q\2017 Fall - CIT 110\week05\Grant-Goodman-Lewin-Bowlin-examPrep\Grant-Goodman-Lewin-Bowlin-examPrep\bin\Debug\Grant-Goodman-Lewin-Bowlin-examPrep.exe
+E:\Q\2017 Fall - CIT 110\week05\Grant-Goodman-Lewin-Bowlin-examPrep\Grant-Goodman-Lewin-Bowlin-examPrep\bin\Debug\Grant-Goodman-Lewin-Bowlin-examPrep.pdb
+E:\Q\2017 Fall - CIT 110\week05\Grant-Goodman-Lewin-Bowlin-examPrep\Grant-Goodman-Lewin-Bowlin-examPrep\bin\Debug\FinchAPI.dll
+E:\Q\2017 Fall - CIT 110\week05\Grant-Goodman-Lewin-Bowlin-examPrep\Grant-Goodman-Lewin-Bowlin-examPrep\bin\Debug\HidSharp.dll
+E:\Q\2017 Fall - CIT 110\week05\Grant-Goodman-Lewin-Bowlin-examPrep\Grant-Goodman-Lewin-Bowlin-examPrep\obj\Debug\Grant-Goodman-Lewin-Bowlin-examPrep.csprojResolveAssemblyReference.cache
+E:\Q\2017 Fall - CIT 110\week05\Grant-Goodman-Lewin-Bowlin-examPrep\Grant-Goodman-Lewin-Bowlin-examPrep\obj\Debug\Grant-Goodman-Lewin-Bowlin-examPrep.csproj.CoreCompileInputs.cache
+E:\Q\2017 Fall - CIT 110\week05\Grant-Goodman-Lewin-Bowlin-examPrep\Grant-Goodman-Lewin-Bowlin-examPrep\obj\Debug\Grant-Goodman-Lewin-Bowlin-examPrep.exe
+E:\Q\2017 Fall - CIT 110\week05\Grant-Goodman-Lewin-Bowlin-examPrep\Grant-Goodman-Lewin-Bowlin-examPrep\obj\Debug\Grant-Goodman-Lewin-Bowlin-examPrep.pdb

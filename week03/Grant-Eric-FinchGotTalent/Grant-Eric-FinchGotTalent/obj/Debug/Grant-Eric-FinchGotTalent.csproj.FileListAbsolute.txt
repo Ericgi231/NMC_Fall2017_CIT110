@@ -1,0 +1,9 @@
+E:\Q Backup\2017 Fall - CIT 110\week03\Grant-Eric-FinchGotTalent\Grant-Eric-FinchGotTalent\obj\Debug\Grant-Eric-FinchGotTalent.csprojResolveAssemblyReference.cache
+E:\Q Backup\2017 Fall - CIT 110\week03\Grant-Eric-FinchGotTalent\Grant-Eric-FinchGotTalent\obj\Debug\Grant-Eric-FinchGotTalent.csproj.CoreCompileInputs.cache
+E:\Q Backup\2017 Fall - CIT 110\week03\Grant-Eric-FinchGotTalent\Grant-Eric-FinchGotTalent\bin\Debug\Grant-Eric-FinchGotTalent.exe.config
+E:\Q Backup\2017 Fall - CIT 110\week03\Grant-Eric-FinchGotTalent\Grant-Eric-FinchGotTalent\bin\Debug\Grant-Eric-FinchGotTalent.exe
+E:\Q Backup\2017 Fall - CIT 110\week03\Grant-Eric-FinchGotTalent\Grant-Eric-FinchGotTalent\bin\Debug\Grant-Eric-FinchGotTalent.pdb
+E:\Q Backup\2017 Fall - CIT 110\week03\Grant-Eric-FinchGotTalent\Grant-Eric-FinchGotTalent\bin\Debug\FinchAPI.dll
+E:\Q Backup\2017 Fall - CIT 110\week03\Grant-Eric-FinchGotTalent\Grant-Eric-FinchGotTalent\bin\Debug\HidSharp.dll
+E:\Q Backup\2017 Fall - CIT 110\week03\Grant-Eric-FinchGotTalent\Grant-Eric-FinchGotTalent\obj\Debug\Grant-Eric-FinchGotTalent.exe
+E:\Q Backup\2017 Fall - CIT 110\week03\Grant-Eric-FinchGotTalent\Grant-Eric-FinchGotTalent\obj\Debug\Grant-Eric-FinchGotTalent.pdb

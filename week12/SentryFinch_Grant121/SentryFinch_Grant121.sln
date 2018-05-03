@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentryFinch_Grant121", "SentryFinch_Grant121\SentryFinch_Grant121.csproj", "{D34BAF15-43C8-468A-8B46-C6B28A776364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D34BAF15-43C8-468A-8B46-C6B28A776364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34BAF15-43C8-468A-8B46-C6B28A776364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34BAF15-43C8-468A-8B46-C6B28A776364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34BAF15-43C8-468A-8B46-C6B28A776364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A7709F4-10AA-4EE9-A6B2-40D723561832}
+	EndGlobalSection
+EndGlobal

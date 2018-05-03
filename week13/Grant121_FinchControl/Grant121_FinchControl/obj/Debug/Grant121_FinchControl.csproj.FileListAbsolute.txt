@@ -1,0 +1,12 @@
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week13\Grant121_FinchControl\Grant121_FinchControl\bin\Debug\Grant121_FinchControl.exe.config
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week13\Grant121_FinchControl\Grant121_FinchControl\bin\Debug\Grant121_FinchControl.exe
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week13\Grant121_FinchControl\Grant121_FinchControl\bin\Debug\Grant121_FinchControl.pdb
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week13\Grant121_FinchControl\Grant121_FinchControl\bin\Debug\FinchAPI.dll
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week13\Grant121_FinchControl\Grant121_FinchControl\bin\Debug\HidSharp.dll
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week13\Grant121_FinchControl\Grant121_FinchControl\obj\Debug\Grant121_FinchControl.csprojResolveAssemblyReference.cache
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week13\Grant121_FinchControl\Grant121_FinchControl\obj\Debug\Grant121_FinchControl.Form1.resources
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week13\Grant121_FinchControl\Grant121_FinchControl\obj\Debug\Grant121_FinchControl.Properties.Resources.resources
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week13\Grant121_FinchControl\Grant121_FinchControl\obj\Debug\Grant121_FinchControl.csproj.GenerateResource.Cache
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week13\Grant121_FinchControl\Grant121_FinchControl\obj\Debug\Grant121_FinchControl.csproj.CoreCompileInputs.cache
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week13\Grant121_FinchControl\Grant121_FinchControl\obj\Debug\Grant121_FinchControl.exe
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week13\Grant121_FinchControl\Grant121_FinchControl\obj\Debug\Grant121_FinchControl.pdb

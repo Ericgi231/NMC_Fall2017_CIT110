@@ -1,0 +1,7 @@
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week10\Grant-QuickCodeW10\Grant-QuickCodeW10\bin\Debug\Grant-QuickCodeW10.exe.config
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week10\Grant-QuickCodeW10\Grant-QuickCodeW10\bin\Debug\Grant-QuickCodeW10.exe
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week10\Grant-QuickCodeW10\Grant-QuickCodeW10\bin\Debug\Grant-QuickCodeW10.pdb
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week10\Grant-QuickCodeW10\Grant-QuickCodeW10\obj\Debug\Grant-QuickCodeW10.csprojResolveAssemblyReference.cache
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week10\Grant-QuickCodeW10\Grant-QuickCodeW10\obj\Debug\Grant-QuickCodeW10.csproj.CoreCompileInputs.cache
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week10\Grant-QuickCodeW10\Grant-QuickCodeW10\obj\Debug\Grant-QuickCodeW10.exe
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week10\Grant-QuickCodeW10\Grant-QuickCodeW10\obj\Debug\Grant-QuickCodeW10.pdb

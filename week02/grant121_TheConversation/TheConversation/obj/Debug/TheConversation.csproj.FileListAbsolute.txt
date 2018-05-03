@@ -1,0 +1,21 @@
+C:\Users\grant121\Desktop\TheConversation\TheConversation\bin\Debug\TheConversation.exe.config
+C:\Users\grant121\Desktop\TheConversation\TheConversation\bin\Debug\TheConversation.exe
+C:\Users\grant121\Desktop\TheConversation\TheConversation\bin\Debug\TheConversation.pdb
+C:\Users\grant121\Desktop\TheConversation\TheConversation\obj\Debug\TheConversation.csprojResolveAssemblyReference.cache
+C:\Users\grant121\Desktop\TheConversation\TheConversation\obj\Debug\TheConversation.csproj.CoreCompileInputs.cache
+C:\Users\grant121\Desktop\TheConversation\TheConversation\obj\Debug\TheConversation.exe
+C:\Users\grant121\Desktop\TheConversation\TheConversation\obj\Debug\TheConversation.pdb
+Q:\2017 Fall - CIT 110\Week 2\TheConversation_Final\TheConversation\bin\Debug\TheConversation.exe.config
+Q:\2017 Fall - CIT 110\Week 2\TheConversation_Final\TheConversation\bin\Debug\TheConversation.exe
+Q:\2017 Fall - CIT 110\Week 2\TheConversation_Final\TheConversation\bin\Debug\TheConversation.pdb
+Q:\2017 Fall - CIT 110\Week 2\TheConversation_Final\TheConversation\obj\Debug\TheConversation.csprojResolveAssemblyReference.cache
+Q:\2017 Fall - CIT 110\Week 2\TheConversation_Final\TheConversation\obj\Debug\TheConversation.csproj.CoreCompileInputs.cache
+Q:\2017 Fall - CIT 110\Week 2\TheConversation_Final\TheConversation\obj\Debug\TheConversation.exe
+Q:\2017 Fall - CIT 110\Week 2\TheConversation_Final\TheConversation\obj\Debug\TheConversation.pdb
+E:\Q Backup\2017 Fall - CIT 110\Week 2\TheConversation_Final\TheConversation\obj\Debug\TheConversation.exe
+E:\Q Backup\2017 Fall - CIT 110\Week 2\TheConversation_Final\TheConversation\obj\Debug\TheConversation.pdb
+E:\Q Backup\2017 Fall - CIT 110\Week 2\TheConversation_Final\TheConversation\bin\Debug\TheConversation.exe.config
+E:\Q Backup\2017 Fall - CIT 110\Week 2\TheConversation_Final\TheConversation\bin\Debug\TheConversation.exe
+E:\Q Backup\2017 Fall - CIT 110\Week 2\TheConversation_Final\TheConversation\bin\Debug\TheConversation.pdb
+E:\Q Backup\2017 Fall - CIT 110\Week 2\TheConversation_Final\TheConversation\obj\Debug\TheConversation.csprojResolveAssemblyReference.cache
+E:\Q Backup\2017 Fall - CIT 110\Week 2\TheConversation_Final\TheConversation\obj\Debug\TheConversation.csproj.CoreCompileInputs.cache

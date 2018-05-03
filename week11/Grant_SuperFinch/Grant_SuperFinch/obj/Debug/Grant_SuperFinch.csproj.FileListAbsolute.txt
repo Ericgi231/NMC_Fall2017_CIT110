@@ -1,0 +1,18 @@
+C:\Users\grant121\Desktop\Grant_SuperFinch\Grant_SuperFinch\bin\Debug\Grant_SuperFinch.exe.config
+C:\Users\grant121\Desktop\Grant_SuperFinch\Grant_SuperFinch\bin\Debug\Grant_SuperFinch.exe
+C:\Users\grant121\Desktop\Grant_SuperFinch\Grant_SuperFinch\bin\Debug\Grant_SuperFinch.pdb
+C:\Users\grant121\Desktop\Grant_SuperFinch\Grant_SuperFinch\bin\Debug\FinchAPI.dll
+C:\Users\grant121\Desktop\Grant_SuperFinch\Grant_SuperFinch\bin\Debug\HidSharp.dll
+C:\Users\grant121\Desktop\Grant_SuperFinch\Grant_SuperFinch\obj\Debug\Grant_SuperFinch.csprojResolveAssemblyReference.cache
+C:\Users\grant121\Desktop\Grant_SuperFinch\Grant_SuperFinch\obj\Debug\Grant_SuperFinch.csproj.CoreCompileInputs.cache
+C:\Users\grant121\Desktop\Grant_SuperFinch\Grant_SuperFinch\obj\Debug\Grant_SuperFinch.exe
+C:\Users\grant121\Desktop\Grant_SuperFinch\Grant_SuperFinch\obj\Debug\Grant_SuperFinch.pdb
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week11\Grant_SuperFinch\Grant_SuperFinch\obj\Debug\Grant_SuperFinch.csprojResolveAssemblyReference.cache
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week11\Grant_SuperFinch\Grant_SuperFinch\obj\Debug\Grant_SuperFinch.csproj.CoreCompileInputs.cache
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week11\Grant_SuperFinch\Grant_SuperFinch\obj\Debug\Grant_SuperFinch.exe
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week11\Grant_SuperFinch\Grant_SuperFinch\obj\Debug\Grant_SuperFinch.pdb
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week11\Grant_SuperFinch\Grant_SuperFinch\bin\Debug\Grant_SuperFinch.exe.config
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week11\Grant_SuperFinch\Grant_SuperFinch\bin\Debug\Grant_SuperFinch.exe
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week11\Grant_SuperFinch\Grant_SuperFinch\bin\Debug\Grant_SuperFinch.pdb
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week11\Grant_SuperFinch\Grant_SuperFinch\bin\Debug\FinchAPI.dll
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week11\Grant_SuperFinch\Grant_SuperFinch\bin\Debug\HidSharp.dll

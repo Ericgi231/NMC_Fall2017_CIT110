@@ -1,0 +1,13 @@
+IF A greater than B
+	IF A greater than C
+		A is largest
+	ELSE
+		C is largest
+	END IF
+ELSE
+	IF B greater than C
+		B is largest
+	ELSE
+		C is largest
+	END IF
+END IF	

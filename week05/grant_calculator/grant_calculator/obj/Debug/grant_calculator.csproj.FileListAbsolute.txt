@@ -1,0 +1,9 @@
+E:\Q Backup\2017 Fall - CIT 110\week05\grant_calculator\grant_calculator\obj\Debug\grant_calculator.csprojResolveAssemblyReference.cache
+E:\Q Backup\2017 Fall - CIT 110\week05\grant_calculator\grant_calculator\obj\Debug\grant_calculator.csproj.CoreCompileInputs.cache
+E:\Q Backup\2017 Fall - CIT 110\week05\grant_calculator\grant_calculator\bin\Debug\grant_calculator.exe.config
+E:\Q Backup\2017 Fall - CIT 110\week05\grant_calculator\grant_calculator\bin\Debug\grant_calculator.exe
+E:\Q Backup\2017 Fall - CIT 110\week05\grant_calculator\grant_calculator\bin\Debug\grant_calculator.pdb
+E:\Q Backup\2017 Fall - CIT 110\week05\grant_calculator\grant_calculator\bin\Debug\FinchAPI.dll
+E:\Q Backup\2017 Fall - CIT 110\week05\grant_calculator\grant_calculator\bin\Debug\HidSharp.dll
+E:\Q Backup\2017 Fall - CIT 110\week05\grant_calculator\grant_calculator\obj\Debug\grant_calculator.exe
+E:\Q Backup\2017 Fall - CIT 110\week05\grant_calculator\grant_calculator\obj\Debug\grant_calculator.pdb

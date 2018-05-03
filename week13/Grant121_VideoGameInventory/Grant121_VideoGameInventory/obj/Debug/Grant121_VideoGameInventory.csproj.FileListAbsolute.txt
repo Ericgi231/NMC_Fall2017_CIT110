@@ -1,0 +1,7 @@
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week13\Grant121_VideoGameInventory\Grant121_VideoGameInventory\obj\Debug\Grant121_VideoGameInventory.csprojResolveAssemblyReference.cache
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week13\Grant121_VideoGameInventory\Grant121_VideoGameInventory\obj\Debug\Grant121_VideoGameInventory.csproj.CoreCompileInputs.cache
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week13\Grant121_VideoGameInventory\Grant121_VideoGameInventory\bin\Debug\Grant121_VideoGameInventory.exe.config
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week13\Grant121_VideoGameInventory\Grant121_VideoGameInventory\bin\Debug\Grant121_VideoGameInventory.exe
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week13\Grant121_VideoGameInventory\Grant121_VideoGameInventory\bin\Debug\Grant121_VideoGameInventory.pdb
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week13\Grant121_VideoGameInventory\Grant121_VideoGameInventory\obj\Debug\Grant121_VideoGameInventory.exe
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week13\Grant121_VideoGameInventory\Grant121_VideoGameInventory\obj\Debug\Grant121_VideoGameInventory.pdb

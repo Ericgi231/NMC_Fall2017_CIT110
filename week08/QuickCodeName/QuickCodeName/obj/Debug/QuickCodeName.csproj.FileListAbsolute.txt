@@ -1,0 +1,7 @@
+E:\Q\2017 Fall - CIT 110\week08\QuickCodeName\QuickCodeName\bin\Debug\QuickCodeName.exe.config
+E:\Q\2017 Fall - CIT 110\week08\QuickCodeName\QuickCodeName\bin\Debug\QuickCodeName.exe
+E:\Q\2017 Fall - CIT 110\week08\QuickCodeName\QuickCodeName\bin\Debug\QuickCodeName.pdb
+E:\Q\2017 Fall - CIT 110\week08\QuickCodeName\QuickCodeName\obj\Debug\QuickCodeName.csprojResolveAssemblyReference.cache
+E:\Q\2017 Fall - CIT 110\week08\QuickCodeName\QuickCodeName\obj\Debug\QuickCodeName.csproj.CoreCompileInputs.cache
+E:\Q\2017 Fall - CIT 110\week08\QuickCodeName\QuickCodeName\obj\Debug\QuickCodeName.exe
+E:\Q\2017 Fall - CIT 110\week08\QuickCodeName\QuickCodeName\obj\Debug\QuickCodeName.pdb

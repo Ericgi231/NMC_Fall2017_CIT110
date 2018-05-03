@@ -1,0 +1,6 @@
+C:\Users\velisj\Git\NMC\CIT110\CA_MethodCalculator\CA_MethodCalculator.Str\bin\Debug\CA_SimpleCalculator.exe.config
+C:\Users\velisj\Git\NMC\CIT110\CA_MethodCalculator\CA_MethodCalculator.Str\obj\Debug\CA_SimpleCalculator.exe
+C:\Users\velisj\Git\NMC\CIT110\CA_MethodCalculator\CA_MethodCalculator.Str\obj\Debug\CA_SimpleCalculator.pdb
+C:\Users\velisj\Git\NMC\CIT110\CA_MethodCalculator.Ans\CA_MethodCalculator.Str\bin\Debug\CA_SimpleCalculator.exe.config
+C:\Users\velisj\Git\NMC\CIT110\CA_MethodCalculator.Ans\CA_MethodCalculator.Str\obj\Debug\CA_SimpleCalculator.exe
+C:\Users\velisj\Git\NMC\CIT110\CA_MethodCalculator.Ans\CA_MethodCalculator.Str\obj\Debug\CA_SimpleCalculator.pdb

@@ -1,0 +1,9 @@
+E:\Q\2017 Fall - CIT 110\week08\Grant-FinchArray\Grant-FinchArray\bin\Debug\Grant-FinchArray.exe.config
+E:\Q\2017 Fall - CIT 110\week08\Grant-FinchArray\Grant-FinchArray\bin\Debug\Grant-FinchArray.exe
+E:\Q\2017 Fall - CIT 110\week08\Grant-FinchArray\Grant-FinchArray\bin\Debug\Grant-FinchArray.pdb
+E:\Q\2017 Fall - CIT 110\week08\Grant-FinchArray\Grant-FinchArray\bin\Debug\FinchAPI.dll
+E:\Q\2017 Fall - CIT 110\week08\Grant-FinchArray\Grant-FinchArray\bin\Debug\HidSharp.dll
+E:\Q\2017 Fall - CIT 110\week08\Grant-FinchArray\Grant-FinchArray\obj\Debug\Grant-FinchArray.csprojResolveAssemblyReference.cache
+E:\Q\2017 Fall - CIT 110\week08\Grant-FinchArray\Grant-FinchArray\obj\Debug\Grant-FinchArray.csproj.CoreCompileInputs.cache
+E:\Q\2017 Fall - CIT 110\week08\Grant-FinchArray\Grant-FinchArray\obj\Debug\Grant-FinchArray.exe
+E:\Q\2017 Fall - CIT 110\week08\Grant-FinchArray\Grant-FinchArray\obj\Debug\Grant-FinchArray.pdb

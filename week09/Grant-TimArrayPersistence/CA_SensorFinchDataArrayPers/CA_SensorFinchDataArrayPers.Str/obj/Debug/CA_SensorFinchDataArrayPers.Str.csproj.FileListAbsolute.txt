@@ -1,0 +1,27 @@
+C:\Users\velisj\Git\NMC\CIT110\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\bin\Debug\CA_SensorFinchDataArray.exe.config
+C:\Users\velisj\Git\NMC\CIT110\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\bin\Debug\CA_SensorFinchDataArray.exe
+C:\Users\velisj\Git\NMC\CIT110\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\bin\Debug\CA_SensorFinchDataArray.pdb
+C:\Users\velisj\Git\NMC\CIT110\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\bin\Debug\FinchAPI.dll
+C:\Users\velisj\Git\NMC\CIT110\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\bin\Debug\HidSharp.dll
+C:\Users\velisj\Git\NMC\CIT110\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\obj\Debug\CA_SensorFinchDataArrayPers.Str.csproj.CoreCompileInputs.cache
+C:\Users\velisj\Git\NMC\CIT110\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\obj\Debug\CA_SensorFinchDataArray.exe
+C:\Users\velisj\Git\NMC\CIT110\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\obj\Debug\CA_SensorFinchDataArray.pdb
+E:\Q\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\bin\Debug\Data\Data.txt
+E:\Q\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\bin\Debug\CA_SensorFinchDataArray.exe.config
+E:\Q\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\bin\Debug\CA_SensorFinchDataArray.exe
+E:\Q\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\bin\Debug\CA_SensorFinchDataArray.pdb
+E:\Q\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\bin\Debug\FinchAPI.dll
+E:\Q\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\bin\Debug\HidSharp.dll
+E:\Q\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\obj\Debug\CA_SensorFinchDataArrayPers.Str.csprojResolveAssemblyReference.cache
+E:\Q\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\obj\Debug\CA_SensorFinchDataArrayPers.Str.csproj.CoreCompileInputs.cache
+E:\Q\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\obj\Debug\CA_SensorFinchDataArray.exe
+E:\Q\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\obj\Debug\CA_SensorFinchDataArray.pdb
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\bin\Debug\CA_SensorFinchDataArray.exe.config
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\bin\Debug\CA_SensorFinchDataArray.exe
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\bin\Debug\CA_SensorFinchDataArray.pdb
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\bin\Debug\FinchAPI.dll
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\bin\Debug\HidSharp.dll
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\obj\Debug\CA_SensorFinchDataArrayPers.Str.csprojResolveAssemblyReference.cache
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\obj\Debug\CA_SensorFinchDataArrayPers.Str.csproj.CoreCompileInputs.cache
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\obj\Debug\CA_SensorFinchDataArray.exe
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\obj\Debug\CA_SensorFinchDataArray.pdb

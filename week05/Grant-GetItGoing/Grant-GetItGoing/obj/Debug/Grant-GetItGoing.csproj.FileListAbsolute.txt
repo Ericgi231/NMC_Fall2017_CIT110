@@ -1,0 +1,9 @@
+E:\Q\2017 Fall - CIT 110\week05\Grant-GetItGoing\Grant-GetItGoing\bin\Debug\Grant-GetItGoing.exe.config
+E:\Q\2017 Fall - CIT 110\week05\Grant-GetItGoing\Grant-GetItGoing\bin\Debug\Grant-GetItGoing.exe
+E:\Q\2017 Fall - CIT 110\week05\Grant-GetItGoing\Grant-GetItGoing\bin\Debug\Grant-GetItGoing.pdb
+E:\Q\2017 Fall - CIT 110\week05\Grant-GetItGoing\Grant-GetItGoing\bin\Debug\FinchAPI.dll
+E:\Q\2017 Fall - CIT 110\week05\Grant-GetItGoing\Grant-GetItGoing\bin\Debug\HidSharp.dll
+E:\Q\2017 Fall - CIT 110\week05\Grant-GetItGoing\Grant-GetItGoing\obj\Debug\Grant-GetItGoing.csprojResolveAssemblyReference.cache
+E:\Q\2017 Fall - CIT 110\week05\Grant-GetItGoing\Grant-GetItGoing\obj\Debug\Grant-GetItGoing.csproj.CoreCompileInputs.cache
+E:\Q\2017 Fall - CIT 110\week05\Grant-GetItGoing\Grant-GetItGoing\obj\Debug\Grant-GetItGoing.exe
+E:\Q\2017 Fall - CIT 110\week05\Grant-GetItGoing\Grant-GetItGoing\obj\Debug\Grant-GetItGoing.pdb

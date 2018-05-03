@@ -1,0 +1,7 @@
+E:\Q\2017 Fall - CIT 110\week05\quickCodeCars\quickCodeCars\obj\Debug\quickCodeCars.csprojResolveAssemblyReference.cache
+E:\Q\2017 Fall - CIT 110\week05\quickCodeCars\quickCodeCars\obj\Debug\quickCodeCars.csproj.CoreCompileInputs.cache
+E:\Q\2017 Fall - CIT 110\week05\quickCodeCars\quickCodeCars\bin\Debug\quickCodeCars.exe.config
+E:\Q\2017 Fall - CIT 110\week05\quickCodeCars\quickCodeCars\bin\Debug\quickCodeCars.exe
+E:\Q\2017 Fall - CIT 110\week05\quickCodeCars\quickCodeCars\bin\Debug\quickCodeCars.pdb
+E:\Q\2017 Fall - CIT 110\week05\quickCodeCars\quickCodeCars\obj\Debug\quickCodeCars.exe
+E:\Q\2017 Fall - CIT 110\week05\quickCodeCars\quickCodeCars\obj\Debug\quickCodeCars.pdb

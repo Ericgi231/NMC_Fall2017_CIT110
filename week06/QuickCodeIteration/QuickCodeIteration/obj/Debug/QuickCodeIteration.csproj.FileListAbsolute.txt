@@ -1,0 +1,7 @@
+E:\Q\2017 Fall - CIT 110\week06\QuickCodeIteration\QuickCodeIteration\bin\Debug\QuickCodeIteration.exe.config
+E:\Q\2017 Fall - CIT 110\week06\QuickCodeIteration\QuickCodeIteration\bin\Debug\QuickCodeIteration.exe
+E:\Q\2017 Fall - CIT 110\week06\QuickCodeIteration\QuickCodeIteration\bin\Debug\QuickCodeIteration.pdb
+E:\Q\2017 Fall - CIT 110\week06\QuickCodeIteration\QuickCodeIteration\obj\Debug\QuickCodeIteration.csprojResolveAssemblyReference.cache
+E:\Q\2017 Fall - CIT 110\week06\QuickCodeIteration\QuickCodeIteration\obj\Debug\QuickCodeIteration.csproj.CoreCompileInputs.cache
+E:\Q\2017 Fall - CIT 110\week06\QuickCodeIteration\QuickCodeIteration\obj\Debug\QuickCodeIteration.exe
+E:\Q\2017 Fall - CIT 110\week06\QuickCodeIteration\QuickCodeIteration\obj\Debug\QuickCodeIteration.pdb

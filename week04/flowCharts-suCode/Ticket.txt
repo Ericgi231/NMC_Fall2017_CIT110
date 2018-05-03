@@ -1,0 +1,6 @@
+IF SPEED greater than 60
+	IF SPEED greater than 80
+		big ticket
+	ELSE
+		little ticket
+END IF

@@ -1,0 +1,7 @@
+E:\Q Backup\2017 Fall - CIT 110\week03\quicky\Grant-Eric-wageCalc\Grant-Eric-wageCalc\obj\Debug\Grant-Eric-wageCalc.csprojResolveAssemblyReference.cache
+E:\Q Backup\2017 Fall - CIT 110\week03\quicky\Grant-Eric-wageCalc\Grant-Eric-wageCalc\obj\Debug\Grant-Eric-wageCalc.csproj.CoreCompileInputs.cache
+E:\Q Backup\2017 Fall - CIT 110\week03\quicky\Grant-Eric-wageCalc\Grant-Eric-wageCalc\bin\Debug\Grant-Eric-wageCalc.exe.config
+E:\Q Backup\2017 Fall - CIT 110\week03\quicky\Grant-Eric-wageCalc\Grant-Eric-wageCalc\bin\Debug\Grant-Eric-wageCalc.exe
+E:\Q Backup\2017 Fall - CIT 110\week03\quicky\Grant-Eric-wageCalc\Grant-Eric-wageCalc\bin\Debug\Grant-Eric-wageCalc.pdb
+E:\Q Backup\2017 Fall - CIT 110\week03\quicky\Grant-Eric-wageCalc\Grant-Eric-wageCalc\obj\Debug\Grant-Eric-wageCalc.exe
+E:\Q Backup\2017 Fall - CIT 110\week03\quicky\Grant-Eric-wageCalc\Grant-Eric-wageCalc\obj\Debug\Grant-Eric-wageCalc.pdb

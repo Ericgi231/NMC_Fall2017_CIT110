@@ -1,0 +1,17 @@
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week12\SentryFinch_Grant121\SentryFinch_Grant121\obj\Debug\SentryFinch_Grant121.csprojResolveAssemblyReference.cache
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week12\SentryFinch_Grant121\SentryFinch_Grant121\obj\Debug\SentryFinch_Grant121.csproj.CoreCompileInputs.cache
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week12\SentryFinch_Grant121\SentryFinch_Grant121\bin\Debug\SentryFinch_Grant121.exe.config
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week12\SentryFinch_Grant121\SentryFinch_Grant121\bin\Debug\SentryFinch_Grant121.exe
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week12\SentryFinch_Grant121\SentryFinch_Grant121\bin\Debug\SentryFinch_Grant121.pdb
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week12\SentryFinch_Grant121\SentryFinch_Grant121\bin\Debug\FinchAPI.dll
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week12\SentryFinch_Grant121\SentryFinch_Grant121\bin\Debug\HidSharp.dll
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week12\SentryFinch_Grant121\SentryFinch_Grant121\bin\Debug\Xamarin.Forms.Core.dll
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week12\SentryFinch_Grant121\SentryFinch_Grant121\bin\Debug\Xamarin.Forms.Platform.dll
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week12\SentryFinch_Grant121\SentryFinch_Grant121\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week12\SentryFinch_Grant121\SentryFinch_Grant121\bin\Debug\Xamarin.Forms.Core.pdb
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week12\SentryFinch_Grant121\SentryFinch_Grant121\bin\Debug\Xamarin.Forms.Core.xml
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week12\SentryFinch_Grant121\SentryFinch_Grant121\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week12\SentryFinch_Grant121\SentryFinch_Grant121\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week12\SentryFinch_Grant121\SentryFinch_Grant121\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week12\SentryFinch_Grant121\SentryFinch_Grant121\obj\Debug\SentryFinch_Grant121.exe
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week12\SentryFinch_Grant121\SentryFinch_Grant121\obj\Debug\SentryFinch_Grant121.pdb

@@ -1,0 +1,18 @@
+C:\Users\grant121\Desktop\temp\Grant-TellMeAboutIt\Grant-TellMeAboutIt\bin\Debug\Grant-TellMeAboutIt.exe.config
+C:\Users\grant121\Desktop\temp\Grant-TellMeAboutIt\Grant-TellMeAboutIt\bin\Debug\Grant-TellMeAboutIt.exe
+C:\Users\grant121\Desktop\temp\Grant-TellMeAboutIt\Grant-TellMeAboutIt\bin\Debug\Grant-TellMeAboutIt.pdb
+C:\Users\grant121\Desktop\temp\Grant-TellMeAboutIt\Grant-TellMeAboutIt\bin\Debug\FinchAPI.dll
+C:\Users\grant121\Desktop\temp\Grant-TellMeAboutIt\Grant-TellMeAboutIt\bin\Debug\HidSharp.dll
+C:\Users\grant121\Desktop\temp\Grant-TellMeAboutIt\Grant-TellMeAboutIt\obj\Debug\Grant-TellMeAboutIt.csprojResolveAssemblyReference.cache
+C:\Users\grant121\Desktop\temp\Grant-TellMeAboutIt\Grant-TellMeAboutIt\obj\Debug\Grant-TellMeAboutIt.csproj.CoreCompileInputs.cache
+C:\Users\grant121\Desktop\temp\Grant-TellMeAboutIt\Grant-TellMeAboutIt\obj\Debug\Grant-TellMeAboutIt.exe
+C:\Users\grant121\Desktop\temp\Grant-TellMeAboutIt\Grant-TellMeAboutIt\obj\Debug\Grant-TellMeAboutIt.pdb
+E:\Q\2017 Fall - CIT 110\week07\Grant-TellMeAboutIt\Grant-TellMeAboutIt\bin\Debug\Grant-TellMeAboutIt.exe.config
+E:\Q\2017 Fall - CIT 110\week07\Grant-TellMeAboutIt\Grant-TellMeAboutIt\bin\Debug\Grant-TellMeAboutIt.exe
+E:\Q\2017 Fall - CIT 110\week07\Grant-TellMeAboutIt\Grant-TellMeAboutIt\bin\Debug\Grant-TellMeAboutIt.pdb
+E:\Q\2017 Fall - CIT 110\week07\Grant-TellMeAboutIt\Grant-TellMeAboutIt\bin\Debug\FinchAPI.dll
+E:\Q\2017 Fall - CIT 110\week07\Grant-TellMeAboutIt\Grant-TellMeAboutIt\bin\Debug\HidSharp.dll
+E:\Q\2017 Fall - CIT 110\week07\Grant-TellMeAboutIt\Grant-TellMeAboutIt\obj\Debug\Grant-TellMeAboutIt.csprojResolveAssemblyReference.cache
+E:\Q\2017 Fall - CIT 110\week07\Grant-TellMeAboutIt\Grant-TellMeAboutIt\obj\Debug\Grant-TellMeAboutIt.csproj.CoreCompileInputs.cache
+E:\Q\2017 Fall - CIT 110\week07\Grant-TellMeAboutIt\Grant-TellMeAboutIt\obj\Debug\Grant-TellMeAboutIt.exe
+E:\Q\2017 Fall - CIT 110\week07\Grant-TellMeAboutIt\Grant-TellMeAboutIt\obj\Debug\Grant-TellMeAboutIt.pdb

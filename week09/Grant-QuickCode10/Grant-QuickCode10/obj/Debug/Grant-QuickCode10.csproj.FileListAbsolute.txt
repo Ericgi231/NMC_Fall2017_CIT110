@@ -1,0 +1,6 @@
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week09\Grant-QuickCode10\Grant-QuickCode10\bin\Debug\Grant-QuickCode10.exe.config
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week09\Grant-QuickCode10\Grant-QuickCode10\bin\Debug\Grant-QuickCode10.exe
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week09\Grant-QuickCode10\Grant-QuickCode10\bin\Debug\Grant-QuickCode10.pdb
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week09\Grant-QuickCode10\Grant-QuickCode10\obj\Debug\Grant-QuickCode10.csproj.CoreCompileInputs.cache
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week09\Grant-QuickCode10\Grant-QuickCode10\obj\Debug\Grant-QuickCode10.exe
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week09\Grant-QuickCode10\Grant-QuickCode10\obj\Debug\Grant-QuickCode10.pdb

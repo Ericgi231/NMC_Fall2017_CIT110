@@ -1,0 +1,7 @@
+C:\Users\grant121\Desktop\TheConversation\TheConversation\bin\Debug\TheConversation.exe.config
+C:\Users\grant121\Desktop\TheConversation\TheConversation\bin\Debug\TheConversation.exe
+C:\Users\grant121\Desktop\TheConversation\TheConversation\bin\Debug\TheConversation.pdb
+C:\Users\grant121\Desktop\TheConversation\TheConversation\obj\Debug\TheConversation.csprojResolveAssemblyReference.cache
+C:\Users\grant121\Desktop\TheConversation\TheConversation\obj\Debug\TheConversation.csproj.CoreCompileInputs.cache
+C:\Users\grant121\Desktop\TheConversation\TheConversation\obj\Debug\TheConversation.exe
+C:\Users\grant121\Desktop\TheConversation\TheConversation\obj\Debug\TheConversation.pdb

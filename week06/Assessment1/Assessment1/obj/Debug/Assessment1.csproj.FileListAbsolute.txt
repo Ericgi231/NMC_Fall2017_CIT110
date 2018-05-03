@@ -1,0 +1,33 @@
+C:\Users\kkell_000\OneDrive\NMCDeveloper\Courses\CIT110.V4\Assessments\Week05\Assessment1.Starter\Assessment1\Assessment1\bin\Debug\Assessment1.exe.config
+C:\Users\kkell_000\OneDrive\NMCDeveloper\Courses\CIT110.V4\Assessments\Week05\Assessment1.Starter\Assessment1\Assessment1\bin\Debug\Assessment1.exe
+C:\Users\kkell_000\OneDrive\NMCDeveloper\Courses\CIT110.V4\Assessments\Week05\Assessment1.Starter\Assessment1\Assessment1\bin\Debug\Assessment1.pdb
+C:\Users\kkell_000\OneDrive\NMCDeveloper\Courses\CIT110.V4\Assessments\Week05\Assessment1.Starter\Assessment1\Assessment1\bin\Debug\FinchAPI.dll
+C:\Users\kkell_000\OneDrive\NMCDeveloper\Courses\CIT110.V4\Assessments\Week05\Assessment1.Starter\Assessment1\Assessment1\bin\Debug\HidSharp.dll
+C:\Users\kkell_000\OneDrive\NMCDeveloper\Courses\CIT110.V4\Assessments\Week05\Assessment1.Starter\Assessment1\Assessment1\obj\Debug\Assessment1.csprojResolveAssemblyReference.cache
+C:\Users\kkell_000\OneDrive\NMCDeveloper\Courses\CIT110.V4\Assessments\Week05\Assessment1.Starter\Assessment1\Assessment1\obj\Debug\Assessment1.exe
+C:\Users\kkell_000\OneDrive\NMCDeveloper\Courses\CIT110.V4\Assessments\Week05\Assessment1.Starter\Assessment1\Assessment1\obj\Debug\Assessment1.pdb
+C:\Users\kkell_000\OneDrive\NMCDeveloper\Courses\CIT110.V4\Assessments\Test1\Assessment1.Starter\Assessment1\Assessment1\bin\Debug\Assessment1.exe.config
+C:\Users\kkell_000\OneDrive\NMCDeveloper\Courses\CIT110.V4\Assessments\Test1\Assessment1.Starter\Assessment1\Assessment1\obj\Debug\Assessment1.exe
+C:\Users\kkell_000\OneDrive\NMCDeveloper\Courses\CIT110.V4\Assessments\Test1\Assessment1.Starter\Assessment1\Assessment1\obj\Debug\Assessment1.pdb
+C:\Users\kkell_000\OneDrive\NMCDeveloper\Courses\CIT110.V4\Assessments\Test1\Assessment1.Starter\Assessment1\Assessment1\bin\Debug\Assessment1.exe
+C:\Users\kkell_000\OneDrive\NMCDeveloper\Courses\CIT110.V4\Assessments\Test1\Assessment1.Starter\Assessment1\Assessment1\bin\Debug\Assessment1.pdb
+C:\Users\kkell_000\OneDrive\NMCDeveloper\Courses\CIT110.V4\Assessments\Test1\Assessment1.Starter\Assessment1\Assessment1\bin\Debug\FinchAPI.dll
+C:\Users\kkell_000\OneDrive\NMCDeveloper\Courses\CIT110.V4\Assessments\Test1\Assessment1.Starter\Assessment1\Assessment1\bin\Debug\HidSharp.dll
+C:\Users\kkell_000\OneDrive\NMCDeveloper\Courses\CIT110.V4\Assessments\Test1\Assessment1.Starter\Assessment1\Assessment1\obj\Debug\Assessment1.csprojResolveAssemblyReference.cache
+C:\Users\velisj\Google Drive\NMC\Courses\CIT110\CIT110 - Assessments\Test1\2017 Spring\Assessment1.Starter\Assessment1.Starter\Assessment1\Assessment1\bin\Debug\Assessment1.exe.config
+C:\Users\velisj\Google Drive\NMC\Courses\CIT110\CIT110 - Assessments\Test1\2017 Spring\Assessment1.Starter\Assessment1.Starter\Assessment1\Assessment1\obj\Debug\Assessment1.exe
+C:\Users\velisj\Google Drive\NMC\Courses\CIT110\CIT110 - Assessments\Test1\2017 Spring\Assessment1.Starter\Assessment1.Starter\Assessment1\Assessment1\obj\Debug\Assessment1.pdb
+C:\Users\velisj\Google Drive\NMC\Courses\CIT110\CIT110 - Assessments\Test1\2017 Spring\Assessment1.Starter\Assessment1.Starter\Assessment1\Assessment1\bin\Debug\Assessment1.exe
+C:\Users\velisj\Google Drive\NMC\Courses\CIT110\CIT110 - Assessments\Test1\2017 Spring\Assessment1.Starter\Assessment1.Starter\Assessment1\Assessment1\bin\Debug\Assessment1.pdb
+C:\Users\velisj\Google Drive\NMC\Courses\CIT110\CIT110 - Assessments\Test1\2017 Spring\Assessment1.Starter\Assessment1.Starter\Assessment1\Assessment1\bin\Debug\FinchAPI.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT110\CIT110 - Assessments\Test1\2017 Spring\Assessment1.Starter\Assessment1.Starter\Assessment1\Assessment1\bin\Debug\HidSharp.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT110\CIT110 - Assessments\Test1\2017 Spring\Assessment1.Starter\Assessment1.Starter\Assessment1\Assessment1\obj\Debug\Assessment1.csprojResolveAssemblyReference.cache
+E:\Q\2017 Fall - CIT 110\week06\Assessment1\Assessment1\bin\Debug\Assessment1.exe.config
+E:\Q\2017 Fall - CIT 110\week06\Assessment1\Assessment1\bin\Debug\Assessment1.exe
+E:\Q\2017 Fall - CIT 110\week06\Assessment1\Assessment1\bin\Debug\Assessment1.pdb
+E:\Q\2017 Fall - CIT 110\week06\Assessment1\Assessment1\bin\Debug\FinchAPI.dll
+E:\Q\2017 Fall - CIT 110\week06\Assessment1\Assessment1\bin\Debug\HidSharp.dll
+E:\Q\2017 Fall - CIT 110\week06\Assessment1\Assessment1\obj\Debug\Assessment1.csprojResolveAssemblyReference.cache
+E:\Q\2017 Fall - CIT 110\week06\Assessment1\Assessment1\obj\Debug\Assessment1.csproj.CoreCompileInputs.cache
+E:\Q\2017 Fall - CIT 110\week06\Assessment1\Assessment1\obj\Debug\Assessment1.exe
+E:\Q\2017 Fall - CIT 110\week06\Assessment1\Assessment1\obj\Debug\Assessment1.pdb

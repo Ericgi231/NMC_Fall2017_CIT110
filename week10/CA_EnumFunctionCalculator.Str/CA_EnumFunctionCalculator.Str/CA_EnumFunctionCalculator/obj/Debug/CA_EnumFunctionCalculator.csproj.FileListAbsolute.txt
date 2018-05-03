@@ -1,0 +1,14 @@
+C:\Users\grant121\Desktop\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator\bin\Debug\CA_EnumFunctionCalculator.exe.config
+C:\Users\grant121\Desktop\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator\bin\Debug\CA_EnumFunctionCalculator.exe
+C:\Users\grant121\Desktop\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator\bin\Debug\CA_EnumFunctionCalculator.pdb
+C:\Users\grant121\Desktop\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator\obj\Debug\CA_EnumFunctionCalculator.csprojResolveAssemblyReference.cache
+C:\Users\grant121\Desktop\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator\obj\Debug\CA_EnumFunctionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\grant121\Desktop\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator\obj\Debug\CA_EnumFunctionCalculator.exe
+C:\Users\grant121\Desktop\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator\obj\Debug\CA_EnumFunctionCalculator.pdb
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week10\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator\bin\Debug\CA_EnumFunctionCalculator.exe.config
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week10\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator\bin\Debug\CA_EnumFunctionCalculator.exe
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week10\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator\bin\Debug\CA_EnumFunctionCalculator.pdb
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week10\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator\obj\Debug\CA_EnumFunctionCalculator.csprojResolveAssemblyReference.cache
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week10\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator\obj\Debug\CA_EnumFunctionCalculator.csproj.CoreCompileInputs.cache
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week10\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator\obj\Debug\CA_EnumFunctionCalculator.exe
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week10\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator.Str\CA_EnumFunctionCalculator\obj\Debug\CA_EnumFunctionCalculator.pdb

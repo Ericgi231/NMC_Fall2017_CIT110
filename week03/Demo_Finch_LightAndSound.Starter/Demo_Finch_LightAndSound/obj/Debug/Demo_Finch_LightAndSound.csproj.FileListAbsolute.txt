@@ -1,0 +1,28 @@
+C:\Users\velisj\_GitLocal\NMC\Courses\CIT110\Demonstrations\Demo_Finch_LightAndSound\Demo_Finch_LightAndSound\bin\Debug\Demo_Finch_LightAndSound.exe.config
+C:\Users\velisj\_GitLocal\NMC\Courses\CIT110\Demonstrations\Demo_Finch_LightAndSound\Demo_Finch_LightAndSound\bin\Debug\Demo_Finch_LightAndSound.exe
+C:\Users\velisj\_GitLocal\NMC\Courses\CIT110\Demonstrations\Demo_Finch_LightAndSound\Demo_Finch_LightAndSound\bin\Debug\Demo_Finch_LightAndSound.pdb
+C:\Users\velisj\_GitLocal\NMC\Courses\CIT110\Demonstrations\Demo_Finch_LightAndSound\Demo_Finch_LightAndSound\bin\Debug\FinchAPI.dll
+C:\Users\velisj\_GitLocal\NMC\Courses\CIT110\Demonstrations\Demo_Finch_LightAndSound\Demo_Finch_LightAndSound\bin\Debug\HidSharp.dll
+C:\Users\velisj\_GitLocal\NMC\Courses\CIT110\Demonstrations\Demo_Finch_LightAndSound\Demo_Finch_LightAndSound\obj\Debug\Demo_Finch_LightAndSound.csprojResolveAssemblyReference.cache
+C:\Users\velisj\_GitLocal\NMC\Courses\CIT110\Demonstrations\Demo_Finch_LightAndSound\Demo_Finch_LightAndSound\obj\Debug\Demo_Finch_LightAndSound.exe
+C:\Users\velisj\_GitLocal\NMC\Courses\CIT110\Demonstrations\Demo_Finch_LightAndSound\Demo_Finch_LightAndSound\obj\Debug\Demo_Finch_LightAndSound.pdb
+C:\Users\velisj\Google Drive\NMC\Courses\CIT110\CIT110 - Activities\Finch - Light and Sound\Demo_Finch_LightAndSound\Demo_Finch_LightAndSound\bin\Debug\Demo_Finch_LightAndSound.exe.config
+C:\Users\velisj\Google Drive\NMC\Courses\CIT110\CIT110 - Activities\Finch - Light and Sound\Demo_Finch_LightAndSound\Demo_Finch_LightAndSound\obj\Debug\Demo_Finch_LightAndSound.exe
+C:\Users\velisj\Google Drive\NMC\Courses\CIT110\CIT110 - Activities\Finch - Light and Sound\Demo_Finch_LightAndSound\Demo_Finch_LightAndSound\obj\Debug\Demo_Finch_LightAndSound.pdb
+C:\Users\velisj\Google Drive\NMC\Courses\CIT110\CIT110 - Activities\Finch - Light and Sound\Demo_Finch_LightAndSound\Demo_Finch_LightAndSound\bin\Debug\Demo_Finch_LightAndSound.exe
+C:\Users\velisj\Google Drive\NMC\Courses\CIT110\CIT110 - Activities\Finch - Light and Sound\Demo_Finch_LightAndSound\Demo_Finch_LightAndSound\bin\Debug\Demo_Finch_LightAndSound.pdb
+C:\Users\velisj\Google Drive\NMC\Courses\CIT110\CIT110 - Activities\Finch - Light and Sound\Demo_Finch_LightAndSound\Demo_Finch_LightAndSound\bin\Debug\FinchAPI.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT110\CIT110 - Activities\Finch - Light and Sound\Demo_Finch_LightAndSound\Demo_Finch_LightAndSound\bin\Debug\HidSharp.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT110\CIT110 - Activities\Finch - Light and Sound\Demo_Finch_LightAndSound\Demo_Finch_LightAndSound\obj\Debug\Demo_Finch_LightAndSound.csprojResolveAssemblyReference.cache
+C:\Users\velisj\Google Drive\NMC\Courses\CIT110\CIT110 - Activities\Coding Activity - The Light and Sound Show\Demo_Finch_LightAndSound.Starter\Demo_Finch_LightAndSound\bin\Debug\Demo_Finch_LightAndSound.exe.config
+C:\Users\velisj\Google Drive\NMC\Courses\CIT110\CIT110 - Activities\Coding Activity - The Light and Sound Show\Demo_Finch_LightAndSound.Starter\Demo_Finch_LightAndSound\obj\Debug\Demo_Finch_LightAndSound.exe
+C:\Users\velisj\Google Drive\NMC\Courses\CIT110\CIT110 - Activities\Coding Activity - The Light and Sound Show\Demo_Finch_LightAndSound.Starter\Demo_Finch_LightAndSound\obj\Debug\Demo_Finch_LightAndSound.pdb
+E:\Q Backup\2017 Fall - CIT 110\week03\Demo_Finch_LightAndSound.Starter\Demo_Finch_LightAndSound.Starter\Demo_Finch_LightAndSound\bin\Debug\Demo_Finch_LightAndSound.exe.config
+E:\Q Backup\2017 Fall - CIT 110\week03\Demo_Finch_LightAndSound.Starter\Demo_Finch_LightAndSound.Starter\Demo_Finch_LightAndSound\bin\Debug\Demo_Finch_LightAndSound.exe
+E:\Q Backup\2017 Fall - CIT 110\week03\Demo_Finch_LightAndSound.Starter\Demo_Finch_LightAndSound.Starter\Demo_Finch_LightAndSound\bin\Debug\Demo_Finch_LightAndSound.pdb
+E:\Q Backup\2017 Fall - CIT 110\week03\Demo_Finch_LightAndSound.Starter\Demo_Finch_LightAndSound.Starter\Demo_Finch_LightAndSound\bin\Debug\FinchAPI.dll
+E:\Q Backup\2017 Fall - CIT 110\week03\Demo_Finch_LightAndSound.Starter\Demo_Finch_LightAndSound.Starter\Demo_Finch_LightAndSound\bin\Debug\HidSharp.dll
+E:\Q Backup\2017 Fall - CIT 110\week03\Demo_Finch_LightAndSound.Starter\Demo_Finch_LightAndSound.Starter\Demo_Finch_LightAndSound\obj\Debug\Demo_Finch_LightAndSound.csprojResolveAssemblyReference.cache
+E:\Q Backup\2017 Fall - CIT 110\week03\Demo_Finch_LightAndSound.Starter\Demo_Finch_LightAndSound.Starter\Demo_Finch_LightAndSound\obj\Debug\Demo_Finch_LightAndSound.csproj.CoreCompileInputs.cache
+E:\Q Backup\2017 Fall - CIT 110\week03\Demo_Finch_LightAndSound.Starter\Demo_Finch_LightAndSound.Starter\Demo_Finch_LightAndSound\obj\Debug\Demo_Finch_LightAndSound.exe
+E:\Q Backup\2017 Fall - CIT 110\week03\Demo_Finch_LightAndSound.Starter\Demo_Finch_LightAndSound.Starter\Demo_Finch_LightAndSound\obj\Debug\Demo_Finch_LightAndSound.pdb

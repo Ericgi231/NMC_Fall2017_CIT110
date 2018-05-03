@@ -1,0 +1,8 @@
+C:\Users\velisj\Git\NMC\CIT110\CA_EnumCalculator.Str\CA_MethodCalculator.Ans\bin\Debug\CA_EnumCalculator.exe.config
+C:\Users\velisj\Git\NMC\CIT110\CA_EnumCalculator.Str\CA_EnumCalculator.Str\bin\Debug\CA_EnumCalculator.exe.config
+C:\Users\velisj\Git\NMC\CIT110\CA_EnumCalculator.Str\CA_EnumCalculator.Str\bin\Debug\CA_EnumCalculator.exe
+C:\Users\velisj\Git\NMC\CIT110\CA_EnumCalculator.Str\CA_EnumCalculator.Str\bin\Debug\CA_EnumCalculator.pdb
+C:\Users\velisj\Git\NMC\CIT110\CA_EnumCalculator.Str\CA_EnumCalculator.Str\obj\Debug\CA_EnumCalculator.Str.csprojResolveAssemblyReference.cache
+C:\Users\velisj\Git\NMC\CIT110\CA_EnumCalculator.Str\CA_EnumCalculator.Str\obj\Debug\CA_EnumCalculator.Str.csproj.CoreCompileInputs.cache
+C:\Users\velisj\Git\NMC\CIT110\CA_EnumCalculator.Str\CA_EnumCalculator.Str\obj\Debug\CA_EnumCalculator.exe
+C:\Users\velisj\Git\NMC\CIT110\CA_EnumCalculator.Str\CA_EnumCalculator.Str\obj\Debug\CA_EnumCalculator.pdb

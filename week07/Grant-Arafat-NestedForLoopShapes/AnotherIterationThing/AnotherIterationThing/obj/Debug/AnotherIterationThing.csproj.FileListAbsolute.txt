@@ -1,0 +1,14 @@
+E:\Q\2017 Fall - CIT 110\week06\AnotherIterationThing\AnotherIterationThing\bin\Debug\AnotherIterationThing.exe.config
+E:\Q\2017 Fall - CIT 110\week06\AnotherIterationThing\AnotherIterationThing\bin\Debug\AnotherIterationThing.exe
+E:\Q\2017 Fall - CIT 110\week06\AnotherIterationThing\AnotherIterationThing\bin\Debug\AnotherIterationThing.pdb
+E:\Q\2017 Fall - CIT 110\week06\AnotherIterationThing\AnotherIterationThing\obj\Debug\AnotherIterationThing.csproj.CoreCompileInputs.cache
+E:\Q\2017 Fall - CIT 110\week06\AnotherIterationThing\AnotherIterationThing\obj\Debug\AnotherIterationThing.exe
+E:\Q\2017 Fall - CIT 110\week06\AnotherIterationThing\AnotherIterationThing\obj\Debug\AnotherIterationThing.pdb
+E:\Q\2017 Fall - CIT 110\week06\AnotherIterationThing\AnotherIterationThing\obj\Debug\AnotherIterationThing.csprojResolveAssemblyReference.cache
+E:\Q\2017 Fall - CIT 110\week07\Grant-Arafat-NestedForLoopShapes\AnotherIterationThing\AnotherIterationThing\bin\Debug\AnotherIterationThing.exe.config
+E:\Q\2017 Fall - CIT 110\week07\Grant-Arafat-NestedForLoopShapes\AnotherIterationThing\AnotherIterationThing\bin\Debug\AnotherIterationThing.exe
+E:\Q\2017 Fall - CIT 110\week07\Grant-Arafat-NestedForLoopShapes\AnotherIterationThing\AnotherIterationThing\bin\Debug\AnotherIterationThing.pdb
+E:\Q\2017 Fall - CIT 110\week07\Grant-Arafat-NestedForLoopShapes\AnotherIterationThing\AnotherIterationThing\obj\Debug\AnotherIterationThing.csprojResolveAssemblyReference.cache
+E:\Q\2017 Fall - CIT 110\week07\Grant-Arafat-NestedForLoopShapes\AnotherIterationThing\AnotherIterationThing\obj\Debug\AnotherIterationThing.csproj.CoreCompileInputs.cache
+E:\Q\2017 Fall - CIT 110\week07\Grant-Arafat-NestedForLoopShapes\AnotherIterationThing\AnotherIterationThing\obj\Debug\AnotherIterationThing.exe
+E:\Q\2017 Fall - CIT 110\week07\Grant-Arafat-NestedForLoopShapes\AnotherIterationThing\AnotherIterationThing\obj\Debug\AnotherIterationThing.pdb

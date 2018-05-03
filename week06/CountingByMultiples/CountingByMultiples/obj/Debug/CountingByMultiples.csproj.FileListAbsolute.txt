@@ -1,0 +1,7 @@
+E:\Q\2017 Fall - CIT 110\week06\CountingByMultiples\CountingByMultiples\bin\Debug\CountingByMultiples.exe.config
+E:\Q\2017 Fall - CIT 110\week06\CountingByMultiples\CountingByMultiples\bin\Debug\CountingByMultiples.exe
+E:\Q\2017 Fall - CIT 110\week06\CountingByMultiples\CountingByMultiples\bin\Debug\CountingByMultiples.pdb
+E:\Q\2017 Fall - CIT 110\week06\CountingByMultiples\CountingByMultiples\obj\Debug\CountingByMultiples.csprojResolveAssemblyReference.cache
+E:\Q\2017 Fall - CIT 110\week06\CountingByMultiples\CountingByMultiples\obj\Debug\CountingByMultiples.csproj.CoreCompileInputs.cache
+E:\Q\2017 Fall - CIT 110\week06\CountingByMultiples\CountingByMultiples\obj\Debug\CountingByMultiples.exe
+E:\Q\2017 Fall - CIT 110\week06\CountingByMultiples\CountingByMultiples\obj\Debug\CountingByMultiples.pdb

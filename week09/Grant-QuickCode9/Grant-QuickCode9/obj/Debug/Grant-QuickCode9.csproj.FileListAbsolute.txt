@@ -1,0 +1,7 @@
+E:\Q\2017 Fall - CIT 110\week09\Grant-QuickCode9\Grant-QuickCode9\bin\Debug\Grant-QuickCode9.exe.config
+E:\Q\2017 Fall - CIT 110\week09\Grant-QuickCode9\Grant-QuickCode9\bin\Debug\Grant-QuickCode9.exe
+E:\Q\2017 Fall - CIT 110\week09\Grant-QuickCode9\Grant-QuickCode9\bin\Debug\Grant-QuickCode9.pdb
+E:\Q\2017 Fall - CIT 110\week09\Grant-QuickCode9\Grant-QuickCode9\obj\Debug\Grant-QuickCode9.csprojResolveAssemblyReference.cache
+E:\Q\2017 Fall - CIT 110\week09\Grant-QuickCode9\Grant-QuickCode9\obj\Debug\Grant-QuickCode9.csproj.CoreCompileInputs.cache
+E:\Q\2017 Fall - CIT 110\week09\Grant-QuickCode9\Grant-QuickCode9\obj\Debug\Grant-QuickCode9.exe
+E:\Q\2017 Fall - CIT 110\week09\Grant-QuickCode9\Grant-QuickCode9\obj\Debug\Grant-QuickCode9.pdb

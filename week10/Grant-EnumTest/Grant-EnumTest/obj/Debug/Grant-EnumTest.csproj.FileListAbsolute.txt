@@ -1,0 +1,7 @@
+C:\Users\grant121\Desktop\Grant-EnumTest\Grant-EnumTest\bin\Debug\Grant-EnumTest.exe.config
+C:\Users\grant121\Desktop\Grant-EnumTest\Grant-EnumTest\bin\Debug\Grant-EnumTest.exe
+C:\Users\grant121\Desktop\Grant-EnumTest\Grant-EnumTest\bin\Debug\Grant-EnumTest.pdb
+C:\Users\grant121\Desktop\Grant-EnumTest\Grant-EnumTest\obj\Debug\Grant-EnumTest.csprojResolveAssemblyReference.cache
+C:\Users\grant121\Desktop\Grant-EnumTest\Grant-EnumTest\obj\Debug\Grant-EnumTest.csproj.CoreCompileInputs.cache
+C:\Users\grant121\Desktop\Grant-EnumTest\Grant-EnumTest\obj\Debug\Grant-EnumTest.exe
+C:\Users\grant121\Desktop\Grant-EnumTest\Grant-EnumTest\obj\Debug\Grant-EnumTest.pdb

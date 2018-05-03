@@ -1,0 +1,10 @@
+E:\Q\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\bin\Release\Data.txt
+E:\Q\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\bin\Release\Data\Data.txt
+E:\Q\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\bin\Release\CA_SensorFinchDataArray.exe.config
+E:\Q\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\bin\Release\CA_SensorFinchDataArray.exe
+E:\Q\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\bin\Release\CA_SensorFinchDataArray.pdb
+E:\Q\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\bin\Release\FinchAPI.dll
+E:\Q\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\bin\Release\HidSharp.dll
+E:\Q\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\obj\Release\CA_SensorFinchDataArrayPers.Str.csproj.CoreCompileInputs.cache
+E:\Q\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\obj\Release\CA_SensorFinchDataArray.exe
+E:\Q\2017 Fall - CIT 110\week09\Grant-TimArrayPersistence\CA_SensorFinchDataArrayPers\CA_SensorFinchDataArrayPers.Str\obj\Release\CA_SensorFinchDataArray.pdb

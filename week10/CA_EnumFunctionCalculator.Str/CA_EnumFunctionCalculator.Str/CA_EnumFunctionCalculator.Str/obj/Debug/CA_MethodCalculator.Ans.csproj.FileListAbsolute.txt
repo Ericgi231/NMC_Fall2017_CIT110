@@ -1,0 +1,9 @@
+C:\Users\velisj\Git\NMC\CIT110\CA_MethodCalculator.Ans\CA_MethodCalculator.Ans\bin\Debug\CA_SimpleCalculator.exe.config
+C:\Users\velisj\Git\NMC\CIT110\CA_MethodCalculator.Ans\CA_MethodCalculator.Ans\obj\Debug\CA_SimpleCalculator.exe
+C:\Users\velisj\Git\NMC\CIT110\CA_MethodCalculator.Ans\CA_MethodCalculator.Ans\obj\Debug\CA_SimpleCalculator.pdb
+C:\Users\velisj\Git\NMC\CIT110\CA_MethodCalculator.Ans\CA_MethodCalculator.Ans\bin\Debug\CA_SimpleCalculator.exe
+C:\Users\velisj\Git\NMC\CIT110\CA_MethodCalculator.Ans\CA_MethodCalculator.Ans\bin\Debug\CA_SimpleCalculator.pdb
+C:\Users\velisj\Git\NMC\CIT110\CA_MethodCalculator.Ans\CA_MethodCalculator.Ans\obj\Debug\CA_MethodCalculator.Ans.csprojResolveAssemblyReference.cache
+C:\Users\velisj\Git\NMC\CIT110\CA_EnumCalculator.Str\CA_MethodCalculator.Ans\bin\Debug\CA_SimpleCalculator.exe.config
+C:\Users\velisj\Git\NMC\CIT110\CA_EnumCalculator.Str\CA_MethodCalculator.Ans\obj\Debug\CA_SimpleCalculator.exe
+C:\Users\velisj\Git\NMC\CIT110\CA_EnumCalculator.Str\CA_MethodCalculator.Ans\obj\Debug\CA_SimpleCalculator.pdb

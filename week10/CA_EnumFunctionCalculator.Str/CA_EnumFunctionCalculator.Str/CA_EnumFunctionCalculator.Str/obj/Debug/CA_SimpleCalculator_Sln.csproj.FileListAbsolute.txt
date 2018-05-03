@@ -1,0 +1,7 @@
+C:\Users\velisj\Git\NMC\CIT110\CA_SimpleCalculator_Sln\SimpleCalculator\bin\Debug\CA_SimpleCalculator.exe.config
+C:\Users\velisj\Git\NMC\CIT110\CA_SimpleCalculator_Sln\CA_SimpleCalculator_Sln\bin\Debug\CA_SimpleCalculator.exe.config
+C:\Users\velisj\Git\NMC\CIT110\CA_SimpleCalculator_Sln\CA_SimpleCalculator_Sln\bin\Debug\CA_SimpleCalculator.exe
+C:\Users\velisj\Git\NMC\CIT110\CA_SimpleCalculator_Sln\CA_SimpleCalculator_Sln\bin\Debug\CA_SimpleCalculator.pdb
+C:\Users\velisj\Git\NMC\CIT110\CA_SimpleCalculator_Sln\CA_SimpleCalculator_Sln\obj\Debug\CA_SimpleCalculator_Sln.csprojResolveAssemblyReference.cache
+C:\Users\velisj\Git\NMC\CIT110\CA_SimpleCalculator_Sln\CA_SimpleCalculator_Sln\obj\Debug\CA_SimpleCalculator.exe
+C:\Users\velisj\Git\NMC\CIT110\CA_SimpleCalculator_Sln\CA_SimpleCalculator_Sln\obj\Debug\CA_SimpleCalculator.pdb

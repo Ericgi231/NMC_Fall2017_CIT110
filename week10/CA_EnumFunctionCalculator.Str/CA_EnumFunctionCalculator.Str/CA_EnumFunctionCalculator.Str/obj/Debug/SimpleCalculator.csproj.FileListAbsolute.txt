@@ -1,0 +1,15 @@
+Q:\CIT110\2016 Fall - 940 JB\L04\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+Q:\CIT110\2016 Fall - 940 JB\L04\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+Q:\CIT110\2016 Fall - 940 JB\L04\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+Q:\CIT110\2016 Fall - 940 JB\L04\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+Q:\CIT110\2016 Fall - 940 JB\L04\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+Q:\CIT110\2016 Fall - 940 JB\L04\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+Q:\CIT110\2016 Fall - 940 JB\L05\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+Q:\CIT110\2016 Fall - 940 JB\L05\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+Q:\CIT110\2016 Fall - 940 JB\L05\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+Q:\CIT110\2016 Fall - 940 JB\L05\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+Q:\CIT110\2016 Fall - 940 JB\L05\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+Q:\CIT110\2016 Fall - 940 JB\L05\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\velisj\Git\NMC\CIT110\CA_SimpleCalculator_Sln\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\velisj\Git\NMC\CIT110\CA_SimpleCalculator_Sln\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\velisj\Git\NMC\CIT110\CA_SimpleCalculator_Sln\SimpleCalculator\obj\Debug\SimpleCalculator.pdb

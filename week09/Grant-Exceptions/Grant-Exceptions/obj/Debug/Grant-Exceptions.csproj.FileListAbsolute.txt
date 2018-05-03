@@ -1,0 +1,6 @@
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week09\Grant-Exceptions\Grant-Exceptions\bin\Debug\Grant-Exceptions.exe.config
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week09\Grant-Exceptions\Grant-Exceptions\bin\Debug\Grant-Exceptions.exe
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week09\Grant-Exceptions\Grant-Exceptions\bin\Debug\Grant-Exceptions.pdb
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week09\Grant-Exceptions\Grant-Exceptions\obj\Debug\Grant-Exceptions.csproj.CoreCompileInputs.cache
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week09\Grant-Exceptions\Grant-Exceptions\obj\Debug\Grant-Exceptions.exe
+E:\NMC\Q\Assignments\2017 Fall - CIT 110\week09\Grant-Exceptions\Grant-Exceptions\obj\Debug\Grant-Exceptions.pdb

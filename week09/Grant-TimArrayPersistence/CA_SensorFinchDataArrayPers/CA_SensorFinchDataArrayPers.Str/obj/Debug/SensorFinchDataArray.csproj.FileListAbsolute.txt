@@ -1,0 +1,9 @@
+C:\Users\velisj\Desktop\SensorFinchDataArray\SensorFinchDataArray\bin\Debug\SensorFinchDataArray.exe.config
+C:\Users\velisj\Desktop\SensorFinchDataArray\SensorFinchDataArray\bin\Debug\SensorFinchDataArray.exe
+C:\Users\velisj\Desktop\SensorFinchDataArray\SensorFinchDataArray\bin\Debug\SensorFinchDataArray.pdb
+C:\Users\velisj\Desktop\SensorFinchDataArray\SensorFinchDataArray\bin\Debug\FinchAPI.dll
+C:\Users\velisj\Desktop\SensorFinchDataArray\SensorFinchDataArray\bin\Debug\HidSharp.dll
+C:\Users\velisj\Desktop\SensorFinchDataArray\SensorFinchDataArray\obj\Debug\SensorFinchDataArray.csprojResolveAssemblyReference.cache
+C:\Users\velisj\Desktop\SensorFinchDataArray\SensorFinchDataArray\obj\Debug\SensorFinchDataArray.csproj.CoreCompileInputs.cache
+C:\Users\velisj\Desktop\SensorFinchDataArray\SensorFinchDataArray\obj\Debug\SensorFinchDataArray.exe
+C:\Users\velisj\Desktop\SensorFinchDataArray\SensorFinchDataArray\obj\Debug\SensorFinchDataArray.pdb

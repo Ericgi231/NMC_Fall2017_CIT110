@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7FC9DEB2-086B-4C74-B055-420D0EDB2A74}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CA_SensorFinchDataArrayPers.Str/Program.cs">
+    <Files>
+      <File FileName="CA_SensorFinchDataArrayPers.Str/Program.cs" Line="315" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CA__SensorFinchDataArrayPers.Str PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

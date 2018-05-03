@@ -1,0 +1,7 @@
+C:\Users\grant121\Desktop\TheCalculator\TheCalculator\bin\Debug\TheCalculator.exe.config
+C:\Users\grant121\Desktop\TheCalculator\TheCalculator\bin\Debug\TheCalculator.exe
+C:\Users\grant121\Desktop\TheCalculator\TheCalculator\bin\Debug\TheCalculator.pdb
+C:\Users\grant121\Desktop\TheCalculator\TheCalculator\obj\Debug\TheCalculator.csprojResolveAssemblyReference.cache
+C:\Users\grant121\Desktop\TheCalculator\TheCalculator\obj\Debug\TheCalculator.csproj.CoreCompileInputs.cache
+C:\Users\grant121\Desktop\TheCalculator\TheCalculator\obj\Debug\TheCalculator.exe
+C:\Users\grant121\Desktop\TheCalculator\TheCalculator\obj\Debug\TheCalculator.pdb
